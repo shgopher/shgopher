@@ -1,4 +1,4 @@
-### Hi there ,im [shgopher](https://shagopher.github.io) 👋 
+### Hi there ,im [shgopher](https://shgopher.github.io) 👋 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=shgopher&show_icons=true)
 
