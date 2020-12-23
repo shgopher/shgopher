@@ -1,14 +1,4 @@
-### Hi there ,im [shgopher](https://shgopher.github.io) 👋 
+![Cinemagraph gif of a person lying in an Outrun themed bedroom](https://i.imgur.com/ZDw8tlA.gif)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=shgopher&show_icons=true)
-
-
- 微信公众号：**科科人神**
- 
- ![keke](https://raw.githubusercontent.com/shgopher/GOFamily/master/joinUsW.jpg)
- 
- bilibili：https://space.bilibili.com/478621088
- 
-<!--
-**shgopher/shgopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgopher&hide=html)
+![Stats](https://github-readme-stats.vercel.app/api?username=shgopher&show_icons=true&count_private=true&line_height=40)
