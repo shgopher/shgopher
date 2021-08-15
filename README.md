@@ -1,9 +1,6 @@
 
 后端软件工程师
 
-- 头条，b站：稻壳仙人
-- 微信公众号：科科人神
-
 -  联系我：shgopher@foxmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgopher&hide=html)
