@@ -13,7 +13,7 @@
 
 </p>
 
--  联系我：shgopher@foxmail.com ; 微信公众号：[科科人神](https://github.com/shgopher/GOFamily#wechat.png) ;
+-  联系我：shgopher@qq.com ; 微信公众号：[科科人神](https://github.com/shgopher/GOFamily#wechat.png) ;
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shgopher&hide=html)
 ![Stats](https://github-readme-stats.vercel.app/api?username=shgopher&show_icons=true&count_private=true&line_height=33)
