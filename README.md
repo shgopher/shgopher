@@ -14,7 +14,4 @@
 
 -  联系我：shgopher@qq.com ; 微信公众号：[科科人神](https://github.com/shgopher/GOFamily#wechat.png) ;
 
-|项目|地址|类型|简介|完成度|
-|:---:|:---:|:---:|:---:|:---:|
-|GOFamily|https://github.com/shgopher/GOFamily|教程|给 go 语言后端软件工程师写的教程，包括go基础知识，go语言并发操作，go语言runtime底层原理，go语言工程事件等内容|40%|
-                                                                                                                                       
+                                                                                                                               
