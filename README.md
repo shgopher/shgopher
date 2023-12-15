@@ -12,7 +12,8 @@
 
 </p>
 
--  技术栈：`Go` `TypeScript` `Rust` 
+-  技术栈：`Go` `Rust` `TypeScript` 
+
 -  联系我：shgopher@qq.com ; 微信公众号：[科科人神](https://github.com/shgopher/GOFamily#wechat.png) ;
 
                                                                                                                                
