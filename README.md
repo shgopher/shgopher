@@ -12,11 +12,7 @@
 
 </p>
 
--  技术栈：`Go` `TypeScript` `Python` `R`
-
 -  联系我：shgopher@qq.com ; 微信公众号：[科科人神](https://github.com/shgopher/GOFamily#wechat.png) ;
 
-## 今年汇总 ✨
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shgopher&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
                                                                                                                                
